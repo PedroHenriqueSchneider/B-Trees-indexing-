@@ -1,14 +1,3 @@
-/* ==========================================================================
- * Universidade Federal de São Carlos - Campus Sorocaba
- * Disciplina: Organização de Recuperação da Informação
- * Prof. Tiago A. Almeida e Prof. Jurandy Almeida
- *
- * Trabalho 01 - Indexação
- *
- * RA: 800467
- * Aluno: Pedro Henrique Bianco Schneider
- * ========================================================================== */
-
 /* Bibliotecas */
 #include <ctype.h>
 #include <stdint.h>
